@@ -10,7 +10,7 @@ I don't know anything yet but I will learn it hopefully.
 * ✉️  You can contact me at [contact@digital-pirate.com](mailto:contact@digital-pirate.com)
 * 🧠  I'm learning Django
 * 🤝  I'm open to collaborating on Don't have skills to collaborate
-* ⚡  Valhalla!!!
+
 
 <a href="https://www.github.com/Digital-Pirate" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Digital-Pirate?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
